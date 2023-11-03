@@ -1,0 +1,56 @@
+{
+    "config": {
+      "error": {
+        "invalid_color": "Ungültige Farbe",
+        "invalid_template": "Ungültige Vorlage",
+        "unknown": "Unerwarteter Fehler"
+      },
+      "step": {
+        "advanced": {
+          "data": {
+            "background_color": "Hintergrundfarbe",
+            "border": "Rahmen",
+            "color": "Farbe",
+            "error_correction": "Fehlerkorrektur:",
+            "scale": "Skalierung"
+          },
+          "title": "Erweiterte Einstellungen"
+        },
+        "user": {
+          "data": {
+            "advanced": "Erweiterte Einstellungen",
+            "name": "Name",
+            "value_template": "Inhalt (Text oder Vorlage)"
+          },
+          "title": "QR-Code erstellen"
+        }
+      }
+    },
+    "options": {
+      "error": {
+        "invalid_color": "Ungültige Farbe",
+        "invalid_template": "Ungültige Vorlage",
+        "unknown": "Unerwarteter Fehler"
+      },
+      "step": {
+        "advanced": {
+          "data": {
+            "background_color": "Hintergrundfarbe",
+            "border": "Rahmen",
+            "color": "Farbe",
+            "error_correction": "Fehlerkorrektur:",
+            "scale": "Skalierung"
+          },
+          "title": "Erweiterte Einstellungen"
+        },
+        "init": {
+          "data": {
+            "advanced": "Erweiterte Einstellungen",
+            "name": "Name",
+            "value_template": "Inhalt (Text oder Vorlage)"
+          },
+          "title": "QR-Code bearbeiten"
+        }
+      }
+    }
+}
